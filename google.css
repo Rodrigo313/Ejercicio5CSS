@@ -1,0 +1,11 @@
+#header li{
+    float: right;
+    display: inline;
+}
+
+#container{
+    text-align: center;
+    margin-top: 10%;
+}
+
+
