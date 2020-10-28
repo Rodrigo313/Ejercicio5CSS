@@ -1,11 +1,22 @@
 #header li{
     float: right;
     display: inline;
+    padding-right: 10px;
 }
 
 #container{
     text-align: center;
     margin-top: 10%;
 }
+
+input[type=text]{
+    width: 30%;
+}
+
+#logo{
+    margin-left: 15%;
+}
+
+
 
 
