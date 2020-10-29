@@ -14,7 +14,29 @@ input[type=text]{
 }
 
 #logo{
-    margin-left: 15%;
+    margin-left: 43%;
+    content: url(https://frangae.com/wp-content/uploads/2018/09/google.jpg);
+    width: 250px;
+    height: 150px;
+    
+}
+
+.clearfix li{
+    float: left;
+    display: inline;
+    padding: 10px;
+    margin-top: 24%;
+}
+
+.clearfix .right-links li{
+    float: right;
+    display: inline;
+    padding: 10px;
+    margin-top: 24%;
+}
+
+nav{
+    height: 5px;
 }
 
 
